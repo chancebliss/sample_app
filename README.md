@@ -1,3 +1,3 @@
 # Sample Application
 
-The sample application for [*Chance Blisss*](http://www.chancebliss.com)
+The sample application for [*Chance Bliss*](http://www.chancebliss.com)
